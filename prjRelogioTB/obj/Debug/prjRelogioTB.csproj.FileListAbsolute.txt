@@ -7,3 +7,12 @@ D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.Properties.Resources
 D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.csproj.GenerateResource.Cache
 D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.exe
 D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.pdb
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\bin\Debug\prjRelogioTB.exe.config
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\obj\Debug\prjRelogioTB.exe
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\obj\Debug\prjRelogioTB.pdb
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\bin\Debug\prjRelogioTB.exe
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\bin\Debug\prjRelogioTB.pdb
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\obj\Debug\prjRelogioTB.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\obj\Debug\prjRelogioTB.Form1.resources
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\obj\Debug\prjRelogioTB.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\obj\Debug\prjRelogioTB.csproj.GenerateResource.Cache

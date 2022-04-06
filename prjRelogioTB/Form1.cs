@@ -52,9 +52,15 @@ namespace prjRelogioTB
             int cy = pbRelogio.Height / 2;
             int raio = 110;
             double angulo = -90 + (seg * 6);
-            Pen caneta = new Pen(Color.White, 4);
+            Pen caneta = new Pen(Color.Black, 4);
             g.DrawLine(caneta, cx, cy, cx + xseg,
                 cy + yseg);
+            double rad = Math.PI * angulo / 180;
+            xseg = (int)(raio * Math.Cos(rad));
+            yseg = (int)(raio * Math.Sin(rad));
+            caneta.Color = Color.White;
+            g.DrawLine(caneta, cx, cy, cx + xseg,
+               cy + yseg);
 
         }
     }
