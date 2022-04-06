@@ -1,2 +1,9 @@
-c:\users\aluno\documents\visual studio 2013\Projects\RelogioTB\prjRelogioTB\bin\Debug\prjRelogioTB.exe.config
-C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\bin\Debug\prjRelogioTB.exe.config
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\bin\Debug\prjRelogioTB.exe.config
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\bin\Debug\prjRelogioTB.exe
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\bin\Debug\prjRelogioTB.pdb
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.csprojResolveAssemblyReference.cache
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.Form1.resources
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.Properties.Resources.resources
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.csproj.GenerateResource.Cache
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.exe
+D:\2022\2J\TB\RelogioTB\prjRelogioTB\obj\Debug\prjRelogioTB.pdb
