@@ -1,0 +1,2 @@
+c:\users\aluno\documents\visual studio 2013\Projects\RelogioTB\prjRelogioTB\bin\Debug\prjRelogioTB.exe.config
+C:\Users\Aluno\Documents\GitHub\Projeto-Reogio\prjRelogioTB\bin\Debug\prjRelogioTB.exe.config
