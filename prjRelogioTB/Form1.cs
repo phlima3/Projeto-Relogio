@@ -19,7 +19,7 @@ namespace prjRelogioTB
 
         string caminho = Environment.CurrentDirectory +
             "\\fundo.png";
-        Image fundo;
+        Bitmap fundo;
         Graphics g;
         int hora;
         int min;
@@ -30,11 +30,9 @@ namespace prjRelogioTB
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            fundo = Image.FromFile(caminho);
+            fundo = new Bitmap(pbRelogio.Width, pbRelogio.Height);
             pbRelogio.Image = fundo;
-            g = pbRelogio.CreateGraphics();
-            pbRelogio.Width = fundo.Width;
-            pbRelogio.Height = fundo.Height;
+            g = Graphics.FromImage(fundo);
         }
 
         private void relogio_Tick(object sender, EventArgs e)
@@ -43,10 +41,17 @@ namespace prjRelogioTB
             hora = bios.Hour;
             min = bios.Minute;
             seg = bios.Second;
+            desenharFundo();
             DesenharPonteiroSegundo();
             DesenharPontieroMinuto();
             DesenharPonteiroHora();
             DesenharCentro();
+            pbRelogio.CreateGraphics().DrawImage(fundo, 0, 0);
+        }
+
+        private void desenharFundo()
+        {
+            g.DrawImage(Image.FromFile(caminho), 0, 0);
         }
 
         private void DesenharCentro()
