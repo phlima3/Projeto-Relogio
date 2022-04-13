@@ -37,9 +37,9 @@
             // pbRelogio
             // 
             this.pbRelogio.Location = new System.Drawing.Point(11, 11);
-            this.pbRelogio.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pbRelogio.Margin = new System.Windows.Forms.Padding(2);
             this.pbRelogio.Name = "pbRelogio";
-            this.pbRelogio.Size = new System.Drawing.Size(488, 470);
+            this.pbRelogio.Size = new System.Drawing.Size(488, 495);
             this.pbRelogio.TabIndex = 0;
             this.pbRelogio.TabStop = false;
             // 
@@ -54,10 +54,10 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(510, 492);
+            this.ClientSize = new System.Drawing.Size(510, 517);
             this.Controls.Add(this.pbRelogio);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
